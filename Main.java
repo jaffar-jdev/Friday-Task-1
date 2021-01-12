@@ -3,7 +3,7 @@ import java.util.*;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+        // write your code here
         //Question 6
         int n = 5;
         for (int i=0;i<n;i++){
@@ -27,6 +27,7 @@ public class Main {
 
         System.out.println("\n\n"+"Question 8");
         //Question 8
-        
+
     }
 }
+
